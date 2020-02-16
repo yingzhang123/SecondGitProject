@@ -1,6 +1,8 @@
 #include<iostream>
+#include"test.txt";
 using namespace std;
 int main(){
 	cout<<"Hello world"<<endl;
 	cout<<"wu han jia you"<<endl;
+	print();
 }
